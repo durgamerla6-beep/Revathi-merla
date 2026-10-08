@@ -1,9 +1,15 @@
  # 💫 About Me: 
 
-  ✨ "Hii I am Revathi-Merla"✨
+  ✨ "Hii I'am Revathi-Merla"✨
 
 
 🚀 ADSA with Python | Data Structures & Algorithms<br>🐍 Python Programming & Problem Solving<br>🔎 Searching & Sorting Algorithms<br>💻 Building coding skills through daily practice<br>📚 Learning, practicing, and improving every day<br>🔥 Consistency + Practice = Progress<br>🌱 Future Software Developer | Tech Enthusiast
+
+Goal
+
+To become a skilled software developer by learing,building,and solving real-world problems.
+
+"Learn.code.Build.Grow"
 
 
 ## 🌐 Socials:
@@ -19,3 +25,7 @@
 [![](https://komarev.com/ghpvc/?username=durgamerla6-beep&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🛠️ Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
