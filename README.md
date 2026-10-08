@@ -5,11 +5,11 @@
 
 🚀 ADSA with Python | Data Structures & Algorithms<br>🐍 Python Programming & Problem Solving<br>🔎 Searching & Sorting Algorithms<br>💻 Building coding skills through daily practice<br>📚 Learning, practicing, and improving every day<br>🔥 Consistency + Practice = Progress<br>🌱 Future Software Developer | Tech Enthusiast
 
-Goal
+🎯Goal:
 
-To become a skilled software developer by learing,building,and solving real-world problems.
+🚀To become a skilled software developer by learing,building,and solving real-world problems.🚀
 
-"Learn.code.Build.Grow"
+✨"Learn.code.Build.Grow"✨
 
 
 ## 🌐 Socials:
@@ -24,7 +24,7 @@ To become a skilled software developer by learing,building,and solving real-worl
 ---
 [![](https://komarev.com/ghpvc/?username=durgamerla6-beep&icon=0&color=0)](https://visitcount.itsvg.in)
 
-html,css,python,javascript
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
