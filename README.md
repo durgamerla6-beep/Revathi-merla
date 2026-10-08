@@ -1,6 +1,6 @@
  # 💫 About Me: 
 
-  ✨ "Hii I'am Revathi-Merla"✨
+  ✨ "Hii I'm Revathi-Merla"✨
 
 
 🚀 ADSA with Python | Data Structures & Algorithms<br>🐍 Python Programming & Problem Solving<br>🔎 Searching & Sorting Algorithms<br>💻 Building coding skills through daily practice<br>📚 Learning, practicing, and improving every day<br>🔥 Consistency + Practice = Progress<br>🌱 Future Software Developer | Tech Enthusiast
