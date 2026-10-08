@@ -24,6 +24,8 @@ To become a skilled software developer by learing,building,and solving real-worl
 ---
 [![](https://komarev.com/ghpvc/?username=durgamerla6-beep&icon=0&color=0)](https://visitcount.itsvg.in)
 
+html,css,python,javascript
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
